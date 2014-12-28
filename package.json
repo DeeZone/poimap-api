@@ -2,18 +2,21 @@
     "name": "poimap-api",
     "version": "0.1.0",
     "author": "DoSomething and contributors <developers@dosomething.org>",
+    "contributors": "Darren Douglas Lee",
     "description": "Map API for PlayPoi.com use.",
     "repository": {
       "type": "git",
       "url": "https://github.com/DeeZone/poimap-api"
     },
+    "bugs": "https://github.com/DeeZone/poimap-api/issues",
+    "homepage": "https://github.com/DeeZone/poimap-api/wiki",
     "dependencies": {
         "express": "3.x",
         "path": "~0.4.9",
         "mongoose": "~3.8.8",
         "request": "2.34.x"
     },
-    "keywords": "poi, map",
+    "keywords": ["poi", "map"],
     "license": "MIT",
     "engines": {
       "node": ">=0.10.28"
